@@ -1,5 +1,5 @@
 # Shortest-Path-Bellman-Ford
-# Problem statement:
+# Problem statement
 Suppose you are given a directed graph with 6 vertices P, Q, R, S, T, and U, where each vertex represents a location in a city. The graph has 8 edges with their respective weights and assigned values, and each edge represents a road connecting two locations.
 The assigned values are as follows:                                                                                                     
 P --> 0                                                                                                                               

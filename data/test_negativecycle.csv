@@ -1,0 +1,5 @@
+Source,Destination,Weight,Traffic,Road
+0,1,4,Medium,Smooth
+1,2,1,High,Smooth
+2,3,-6,Low,Rough
+3,1,3,Medium,Rough
